@@ -5,7 +5,7 @@
 <h3>🐧 Me 🐧</h3>
 <p>
 <a href="https://instagram.com/j9yunx_x?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-🎫MBTI : <img src=" https://img.shields.io/badge/ENTJ-6A5FBB?style=flat&logo=Java&logoColor=white"/>
+🎫MBTI : <img src="https://img.shields.io/badge/ENTJ-6A5FBB?style=flat&logo=Java&logoColor=white"/>
 </p>
 <br>
 <h3>🎇 Tech Stack 🎇</h3>
