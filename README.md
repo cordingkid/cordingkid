@@ -4,8 +4,8 @@
 <div align=“center”>
 <h3>🐧 Me 🐧</h3>
 <p>
-  🎫 : <img href="https://instagram.com/j9yunx_x?igshid=OGQ5ZDc2ODk2ZA==" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  MBTI : ENTJ
+<a href="https://instagram.com/j9yunx_x?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+🎫MBTI : ENTJ
 </p>
 <br>
 <h3>🎇 Tech Stack 🎇</h3>
