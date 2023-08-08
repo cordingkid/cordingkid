@@ -18,7 +18,7 @@
 <br>
 <h3>🛠️ Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <br>
 <h3>🪪 SNS 🪪</h3>
 
