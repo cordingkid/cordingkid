@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-ffee4a?style=flat&logo=javascript&logoColor=white" />
+<img src="https://camo.githubusercontent.com/47b39fef9a8b3f7378c499195ff3d43b51edf51b72bd5c73006f9ce416b2071f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" />
 
 <br>
 <h3>🛠️ Tools 🛠️</h3>
