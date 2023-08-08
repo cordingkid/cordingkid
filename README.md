@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingkid&fontSize=90" />
 
+<p>🔮백엔드 개발자를 꿈 꾸는 codingkid입니다.🔮</p>
 <div align=“center”>
 <h3>🎇 Tech Stack 🎇</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -24,8 +25,4 @@
 <img src="https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" />
 <img src="https://camo.githubusercontent.com/01504daa1be08e9f944dd9de6e992d43c1f871770fa8fb2cf7ff6915d973f495/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" />
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
-
-<br>
-<h3>🪪 SNS 🪪</h3>
-
 </div>
