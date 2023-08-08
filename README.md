@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingkid&fontSize=90" />
 
-<h2>🔮백엔드 개발자를 꿈 꾸는 codingkid입니다.🔮</h2>
+<h2>🔮백엔드 개발자를 꿈 꾸는 성장하는 개발자 codingkid입니다.🔮</h2>
 <div align=“center”>
 <h3>🎇 Tech Stack 🎇</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
