@@ -1,13 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingkid&fontSize=90" />
 
-<h2>🔮백엔드 개발자를 꿈 꾸는 성장하는 개발자 codingkid입니다.🔮</h2>
-<div align=“center”>
-<h3>🐧 Me 🐧</h3>
-<p>
-<a href="https://instagram.com/j9yunx_x?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-🎫MBTI : <img src="https://img.shields.io/badge/ENTJ-6A5FBB?style=flat&logo=Java&logoColor=white"/>
-</p>
-<br>
+<h2>🔮백엔드 개발자를 꿈 꾸는 성장하는 개발자 정재균입니다.🔮</h2>
+
 <h3>🎇 Tech Stack 🎇</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://camo.githubusercontent.com/e5e1b0f6385294f384736687f3e6083f5579cf8e583460fe3c303ce8b5b1e3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465"/>
