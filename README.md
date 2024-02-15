@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=JPA&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
 
 <br>
 <h3>🛠️ Tools 🛠️</h3>
