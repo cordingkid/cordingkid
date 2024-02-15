@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingkid&fontSize=90" />
-
-<h2>🔮백엔드 개발자를 꿈 꾸는 성장하는 개발자 정재균입니다.🔮</h2>
+<h2>🔮B.E🔮</h2>
 
 <div>
 <h3>🎇 Tech Stack 🎇</h3>
