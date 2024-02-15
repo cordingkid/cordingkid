@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
