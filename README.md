@@ -9,4 +9,4 @@
 </div>
 <h3>📚 Studying 📚</h3>
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=JPA&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-0769AD?style=plastic&logo=QueryDSL&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=plastic&logo=QueryDSL&logoColor=white">
